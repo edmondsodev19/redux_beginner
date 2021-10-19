@@ -1,4 +1,4 @@
-# This repository is a basica redux project 
+# This repository is a basic redux project 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
