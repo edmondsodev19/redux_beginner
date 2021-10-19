@@ -1,6 +1,8 @@
-# This repository is a basic redux project 
+# Redux project for beginner
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+This project is for beginner of redux
 
 ## Available Scripts
 
